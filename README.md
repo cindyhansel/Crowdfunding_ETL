@@ -1,20 +1,21 @@
 # Crowdfunding_ETL
-#### Project 2 partners:
+****************************************************************************************************************************
 ### - Lucinda Hodgson
 ### - Cindy Hansel
-
+****************************************************************************************************************************
  ![Alt text](Images/ETL_visual.png)
 
 
  For this project we each worked on the code and then came together to compare what we had done, and decide on the final product after reviewing the areas where our code differed. We both chose to complete option 2 as we believed it more directly related to the more recent class work and we wanted to use those skills. We also completed option 1 as practice but have commented out all of that code with ###. 
  
-Data sources provided:
+#### Data extracted from the following provided sources:
 
 crowdfunding.xlsx
 
 
 contacts.xlsx
 
+#### Description
 For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
 
 ### Instructions
@@ -141,3 +142,6 @@ Note: Remember to specify the data types, primary keys, foreign keys, and other 
 7. Import each CSV file into its corresponding SQL table.
 
 8. Verify that each table has the correct data by running a SELECT statement for each.
+
+### Acknowledgements
+Internet/computer icon from Microsoft Power Point stock
