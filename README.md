@@ -6,7 +6,7 @@
  ![Alt text](Images/ETL_visual.png)
 
 
- For this project we each worked on the code and then came together to compare what we had done, and decide on the final product after reviewing the areas where our code differed. We both chose to complete option 2 as we believed it more directly related to the more recent class work and we wanted to use those skills. We also completed option 2 as practice but have commented out all of that code with ###. 
+ For this project we each worked on the code and then came together to compare what we had done, and decide on the final product after reviewing the areas where our code differed. We both chose to complete option 2 as we believed it more directly related to the more recent class work and we wanted to use those skills. We also completed option 1 as practice but have commented out all of that code with ###. 
  
 Data sources provided:
 
