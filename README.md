@@ -147,5 +147,11 @@ Note: Remember to specify the data types, primary keys, foreign keys, and other 
 
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
-### Acknowledgements
+### Acknowledgements and references
 Internet/computer icon from Microsoft Power Point stock
+
+Class assignments and examples
+
+Study group
+
+
